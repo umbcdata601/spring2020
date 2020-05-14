@@ -1,0 +1,35 @@
+DATA 601
+
+Sept 6, 2018
+
+Assignment 1
+
+Article Summary
+
+In A Very Short History of Data Science, Gil Press presents to us a 
+
+	
+comprehensive timeline of the evolution of the interdisciplinary ﬁeld of data science — 
+the product of the coupling of the age-old discipline of statistics with a relatively new 
+one — computer science. Press dates the conception of data science to 1962 when 
+John W. Tukey   wrote in The Future of Data Analysis that “data analysis is intrinsically 
+an empirical science.” Readers are then introduced to various seminal works that 
+helped to engender the birth of data science since then. Through reviewing an array of 
+scholarly endeavors in this new ﬁeld, Press shows us that data science emerges 
+amidst the ambivalence and questioning by traditional statistics, even though the 
+statistician, Dr. C.F. Jeﬀ Wu once advocated renaming statistics as data science and 
+statisticians as data scientists in 1997. Perhaps, the clear demarkation of the entrance 
+of Data Science into the limelight of professional discourse was in 2001 when William 
+S. Cleveland published Data Science: An Action Plan for Expanding the Technical Areas 
+of the Field of Statistics. The ensuing decade saw the rapid development of data 
+science as its boundaries and frontiers expanded, gaining public attention and interest, 
+and ultimately leading to the publication of Data Scientist: The Sexist Job of the 21st 
+Century in the Harvard Business Review in 2012.
+
+
+References: Press, Gil, A Short History of Data Science, Forbes Magazine,  28 May 2013.
+
+https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#32c00bac55cf  
+— Accessed Sept 6, 2018
+
+

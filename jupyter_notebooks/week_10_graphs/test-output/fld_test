@@ -1,0 +1,8 @@
+// files and folders
+digraph {
+	"/full/path/to/fldr" [label=fldr]
+	B [label="Sir Bedevere the Wise"]
+	L [label="Sir Lancelot the Brave"]
+	B -> L
+	B -> "/full/path/to/fldr"
+}

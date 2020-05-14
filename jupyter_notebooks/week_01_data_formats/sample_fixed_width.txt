@@ -1,0 +1,6 @@
+ID     l_name    f_nametuition
+0585822Potter, JrHarry 204
+0485572Weasley   Ron   958
+5924245Granger   Hermio422
+4724926Diggory   Cedric1042
+4938243Weasley   Fred  394

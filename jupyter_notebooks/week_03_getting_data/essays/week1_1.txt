@@ -1,0 +1,7 @@
+Gill Press’s A Very Short History of Data Science provides a summary of how Data Science was recognized as a field by itself, the tools and models that are specific to Data Science and the necessary disciplines it encompasses.
+
+Gill Press provides the history of Data Science chronologically by recognizing Tukey as the first person to state that Data Analysis was more Science than Mathematics.
+
+Later in 1974, Peter Naur recognized that the field of Data Science is related to other fields. The need for analysis, as Gill Press writes in the article, requires new algorithm models rather than conventional data model.
+
+This need naturally would require other fields such as Computer Science, Mathematics, Statistics and Graphic Design (Web Development) sometimes.

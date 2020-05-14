@@ -1,0 +1,9 @@
+graph fam {
+	node [shape=plaintext]
+	mom
+	dad
+	son
+	mom -- son
+	son -- dad
+	mom -- dad
+}

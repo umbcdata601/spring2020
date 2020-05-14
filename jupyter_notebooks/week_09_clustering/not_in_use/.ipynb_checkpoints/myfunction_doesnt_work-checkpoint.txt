@@ -1,0 +1,36 @@
+def fizz_buzz(num):
+    """
+    >>> fizz_buzz(6)
+    1
+    2
+    Fizz
+    4
+    Buzz
+    
+    >>> fizz_buzz(17)
+    1
+    2
+    Fizz
+    4
+    Buzz
+    Fizz
+    7
+    8
+    Fizz
+    Buzz
+    11
+    Fizz
+    13
+    14
+    FizzBuzz
+    16
+    """
+    return
+    string = ""
+    if num % 3 == 0:
+        string = string + "Fizz"
+    if num % 5 == 0:
+        string = string + "Buzz"
+    if num % 5 != 0 and num % 3 != 0:
+        string = string + str(num)
+    print(string)

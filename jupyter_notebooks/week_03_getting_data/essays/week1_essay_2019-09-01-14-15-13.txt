@@ -1,0 +1,13 @@
+
+<p>The first part of the &quot;50 years of Data Science&quot; talks about the current status of Data Science. Martha E. Pollack, an American computer scientist, had given a formal announcement which says “Data Science is the fourth approach to scientific discovery”. The writer then addresses about an issue that has been a never ending discussion and has no conclusion, I believe, which is the role of statistics in Data Science. The writer had chosen to be neutral and had shown it by providing references for:</p>
+<ol>
+ <li style="margin-left: 54.0pt;">Data Science and Statistics are the same
+ <li style="margin-left: 54.0pt;">Data Science <span style="font-size: 11.0pt;line-height: 115.0%;font-family: Calibri , sans-serif;">can exist </span>without Statistics
+</ol>
+<p>I was hoping to choose one after reading the references provided but failed to. People have different views on Data Science and its relation to Statistics and it's hard to decode.</p>
+<p>The writer then talks about a few buzzwords of Data Science namely, ‘big data’, ’skills’, and ‘jobs’. I would like to focus and talk on the ‘jobs’ part. Being a student who opted Data Science as a major, this article helped me make up my mind to face the hardships in the future, as the article says the following notable points</p>
+<ol>
+ <li>“would-be data scientists may face years of further skills development post masters degree, before they can add value to their employer’s organization”
+ <li>“Data Science degree programs do not actually know how to satisfy the supposedly voracious demand for graduates”
+</ol>
+<p>I feel the first 10 pages of this article are references, the author used, to make the reader understand the different view on Data Science.</p>

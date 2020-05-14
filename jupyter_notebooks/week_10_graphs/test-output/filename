@@ -1,0 +1,11 @@
+// family
+digraph {
+	gparent1 [label="grand parent"]
+	parent1 [label=parent]
+	adult [label=sibling]
+	kid
+	gparent1 -> parent1 [color=blue]
+	gparent1 -> adult [color=blue]
+	parent1 -> kid [label=childOf color=blue]
+	adult -> kid [label=hired color=red]
+}

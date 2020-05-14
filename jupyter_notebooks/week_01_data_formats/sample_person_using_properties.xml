@@ -1,0 +1,12 @@
+<!-- source: Source: https://en.wikipedia.org/wiki/JSON#XML_samples -->
+<person>
+  <firstName>John</firstName>
+  <lastName>Smith</lastName>
+  <age>25</age>
+  <address>
+    <street>21 2nd Street</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zip>10021</zip>
+  </address>
+</person>

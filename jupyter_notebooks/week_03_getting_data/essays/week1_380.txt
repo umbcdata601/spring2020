@@ -1,0 +1,18 @@
+The first ten pages of 50 years of Data Science discusses if "Data Science" is really a new science or a sugar covered Statistics, rebranding of Statistics as mentioned in the article. 
+
+The article indicated how the terms and definitions used for Data Science are very similar to the ones for statistics. The practices, methodologies that statisticians worked on are now presented as if they are the product of Data Science as a “new discipline”. 
+
+
+The article also refers to recurring “memes" for data science and criticizes them as follows. 
+
+
+The Big Data Meme: It indicates that big data cannot be a handled by statistics. It’s claimed that statistics is for small datasets where the big data is for data science. It’s incorrect for a meaningful distinction between the two. In history, there were cases that statistics worked on the “big data” of its time and they developed methods to carry out the challenge. Mathematical statistics researchers have worked for decades to find solutions to handle big datasets.
+
+
+The Skills Meme: The article criticizes the notion that data science trainees require the skill set to handle big datasets. It says the skills required to perform these tasks are not as big as it is said. In fact, the skills required are not to make a better inference from the data, they are rather how to handle calculations in distributed systems.
+
+
+The Jobs Meme: The organizations are not sure how to make use of the skill sets that are being taught in Data Science degree programs. It often requires additional training to be useful to the employer. Data Analysis and Statistics however are quite applicable skills and can easily be ported into any organization.
+
+
+Finally, it’s a real science but not for the reasons mentioned above. It’s the science of learning from the data using the scientific technics that statisticians have developed and used. 

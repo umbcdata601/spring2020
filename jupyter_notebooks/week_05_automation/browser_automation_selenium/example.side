@@ -1,0 +1,85 @@
+{
+  "id": "e9b26042-e148-4980-bcef-0f4c789c277d",
+  "version": "2.0",
+  "name": "example",
+  "url": "https://www.umbc.edu",
+  "tests": [{
+    "id": "66b69968-d9f2-41b1-840d-d7c5efedcc25",
+    "name": "example of selen",
+    "commands": [{
+      "id": "40e93e09-4f30-4005-9d81-bcac5811efb4",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "af94ef2f-878c-43ce-bbaa-2e69c3eb11b9",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Albin O. Kuhn Library",
+      "targets": [
+        ["linkText=Albin O. Kuhn Library", "linkText"],
+        ["css=.hover:nth-child(1)", "css:finder"],
+        ["xpath=(//a[contains(text(),'Albin O. Kuhn Library')])[3]", "xpath:link"],
+        ["xpath=//ul[@id='menu-main']/li[7]/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=(//a[@href='http://www.umbc.edu/aok'])[3]", "xpath:href"],
+        ["xpath=//li[7]/ul/li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5625000d-dfcf-4717-af4c-72392c3f9ffd",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Search & Find",
+      "targets": [
+        ["linkText=Search & Find", "linkText"],
+        ["css=.current > .sf-with-ul", "css:finder"],
+        ["xpath=(//a[contains(text(),'Search & Find')])[2]", "xpath:link"],
+        ["xpath=//ul[@id='example']/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '//library.umbc.edu/searchfind.php')])[2]", "xpath:href"],
+        ["xpath=//div[3]/div/ul/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a24c756e-6685-4a22-9370-ecadc81214c7",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Find Course Reserves",
+      "targets": [
+        ["linkText=Find Course Reserves", "linkText"],
+        ["css=.current li:nth-child(5) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Find Course Reserves')]", "xpath:link"],
+        ["xpath=//ul[@id='example']/li/ul/li[5]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '//library.umbc.edu/reserves/')]", "xpath:href"],
+        ["xpath=//li/ul/li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Find Course Reserves')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "3e0dc220-ab02-4e19-aba5-8ab8e17c5a56",
+      "comment": "",
+      "command": "click",
+      "target": "id=dept",
+      "targets": [
+        ["id=dept", "id"],
+        ["name=department", "name"],
+        ["css=#dept", "css:finder"],
+        ["xpath=//select[@id='dept']", "xpath:attributes"],
+        ["xpath=//div[@id='container-content']/table/tbody/tr/td/form/select", "xpath:idRelative"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "4ce39dd3-9b32-4cc5-8a03-b16615e50c52",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["66b69968-d9f2-41b1-840d-d7c5efedcc25"]
+  }],
+  "urls": ["https://www.umbc.edu/"],
+  "plugins": []
+}

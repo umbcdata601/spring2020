@@ -1,0 +1,4 @@
+xdotool click --repeat 5 --delay 18 1
+
+sudo apt-get install python3-autopilot
+https://stackoverflow.com/questions/2986286/simulate-mouse-movement-in-ubuntu

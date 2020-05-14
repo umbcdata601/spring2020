@@ -1,0 +1,103 @@
+// files and folders
+digraph {
+	graph [rankdir=LR]
+	"." [label="."]
+	"./not_used" [label=not_used]
+	"." -> "./not_used"
+	"./test-output" [label="test-output"]
+	"." -> "./test-output"
+	"./.ipynb_checkpoints" [label=".ipynb_checkpoints"]
+	"." -> "./.ipynb_checkpoints"
+	"./graphviz_for_static_directed_graph_visualization.ipynb" [label="graphviz_for_static_directed_graph_visualization.ipynb"]
+	"." -> "./graphviz_for_static_directed_graph_visualization.ipynb"
+	"./lanl_netflow_activity.ipynb" [label="lanl_netflow_activity.ipynb"]
+	"." -> "./lanl_netflow_activity.ipynb"
+	"./example1_graph.png" [label="example1_graph.png"]
+	"." -> "./example1_graph.png"
+	"./py2neo.ipynb" [label="py2neo.ipynb"]
+	"." -> "./py2neo.ipynb"
+	"./week_12_notebooks.zip" [label="week_12_notebooks.zip"]
+	"." -> "./week_12_notebooks.zip"
+	"./lanl_windows_logs.ipynb" [label="lanl_windows_logs.ipynb"]
+	"." -> "./lanl_windows_logs.ipynb"
+	"./files_and_folders.ipynb" [label="files_and_folders.ipynb"]
+	"." -> "./files_and_folders.ipynb"
+	"./samplefile.txt" [label="samplefile.txt"]
+	"." -> "./samplefile.txt"
+	"./print_to_file.ipynb" [label="print_to_file.ipynb"]
+	"." -> "./print_to_file.ipynb"
+	"./networkx.ipynb" [label="networkx.ipynb"]
+	"." -> "./networkx.ipynb"
+	"./graph_of_site_links.ipynb" [label="graph_of_site_links.ipynb"]
+	"." -> "./graph_of_site_links.ipynb"
+	"./lanl_netflow.ipynb" [label="lanl_netflow.ipynb"]
+	"." -> "./lanl_netflow.ipynb"
+	"./netflow_day_02_1E6rows.pkl" [label="netflow_day_02_1E6rows.pkl"]
+	"." -> "./netflow_day_02_1E6rows.pkl"
+	"./lanl_netflow_activity.ipynb.zip" [label="lanl_netflow_activity.ipynb.zip"]
+	"." -> "./lanl_netflow_activity.ipynb.zip"
+	"./graphviz_for_static_graph_visualization.ipynb" [label="graphviz_for_static_graph_visualization.ipynb"]
+	"." -> "./graphviz_for_static_graph_visualization.ipynb"
+	"./pycallgraph.png" [label="pycallgraph.png"]
+	"." -> "./pycallgraph.png"
+	"./py2neo_nepotism.ipynb" [label="py2neo_nepotism.ipynb"]
+	"." -> "./py2neo_nepotism.ipynb"
+	"./pycallgraph.ipynb" [label="pycallgraph.ipynb"]
+	"." -> "./pycallgraph.ipynb"
+	"./not_used" [label="./not_used"]
+	"./not_used/source.csv" [label="source.csv"]
+	"./not_used" -> "./not_used/source.csv"
+	"./not_used/index.html" [label="index.html"]
+	"./not_used" -> "./not_used/index.html"
+	"./not_used/marvel_characters.ipynb" [label="marvel_characters.ipynb"]
+	"./not_used" -> "./not_used/marvel_characters.ipynb"
+	"./not_used/hero-network.csv.source" [label="hero-network.csv.source"]
+	"./not_used" -> "./not_used/hero-network.csv.source"
+	"./not_used/source.csv.source" [label="source.csv.source"]
+	"./not_used" -> "./not_used/source.csv.source"
+	"./not_used/hero-network.csv" [label="hero-network.csv"]
+	"./not_used" -> "./not_used/hero-network.csv"
+	"./test-output" [label="./test-output"]
+	"./test-output/parrot.png" [label="parrot.png"]
+	"./test-output" -> "./test-output/parrot.png"
+	"./test-output/filename.png" [label="filename.png"]
+	"./test-output" -> "./test-output/filename.png"
+	"./test-output/files_and_folders" [label=files_and_folders]
+	"./test-output" -> "./test-output/files_and_folders"
+	"./test-output/fld_test.png" [label="fld_test.png"]
+	"./test-output" -> "./test-output/fld_test.png"
+	"./test-output/round-table" [label="round-table"]
+	"./test-output" -> "./test-output/round-table"
+	"./test-output/fld_test" [label=fld_test]
+	"./test-output" -> "./test-output/fld_test"
+	"./test-output/round-table.png" [label="round-table.png"]
+	"./test-output" -> "./test-output/round-table.png"
+	"./test-output/files_and_folders.png" [label="files_and_folders.png"]
+	"./test-output" -> "./test-output/files_and_folders.png"
+	"./test-output/parrot" [label=parrot]
+	"./test-output" -> "./test-output/parrot"
+	"./test-output/filename" [label=filename]
+	"./test-output" -> "./test-output/filename"
+	"./.ipynb_checkpoints" [label="./.ipynb_checkpoints"]
+	"./.ipynb_checkpoints/files_and_folders-checkpoint.ipynb" [label="files_and_folders-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/files_and_folders-checkpoint.ipynb"
+	"./.ipynb_checkpoints/py2neo_nepotism-checkpoint.ipynb" [label="py2neo_nepotism-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/py2neo_nepotism-checkpoint.ipynb"
+	"./.ipynb_checkpoints/graphviz_for_static_directed_graph_visualization-checkpoint.ipynb" [label="graphviz_for_static_directed_graph_visualization-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/graphviz_for_static_directed_graph_visualization-checkpoint.ipynb"
+	"./.ipynb_checkpoints/lanl_netflow_activity-checkpoint.ipynb" [label="lanl_netflow_activity-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/lanl_netflow_activity-checkpoint.ipynb"
+	"./.ipynb_checkpoints/lanl_netflow-checkpoint.ipynb" [label="lanl_netflow-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/lanl_netflow-checkpoint.ipynb"
+	"./.ipynb_checkpoints/print_to_file-checkpoint.ipynb" [label="print_to_file-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/print_to_file-checkpoint.ipynb"
+	"./.ipynb_checkpoints/graph_of_site_links-checkpoint.ipynb" [label="graph_of_site_links-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/graph_of_site_links-checkpoint.ipynb"
+	"./.ipynb_checkpoints/pycallgraph-checkpoint.ipynb" [label="pycallgraph-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/pycallgraph-checkpoint.ipynb"
+	"./.ipynb_checkpoints/networkx-checkpoint.ipynb" [label="networkx-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/networkx-checkpoint.ipynb"
+	"./.ipynb_checkpoints/graphviz_for_static_graph_visualization-checkpoint.ipynb" [label="graphviz_for_static_graph_visualization-checkpoint.ipynb"]
+	"./.ipynb_checkpoints" -> "./.ipynb_checkpoints/graphviz_for_static_graph_visualization-checkpoint.ipynb"
+	overlap=false
+}
